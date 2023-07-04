@@ -1,14 +1,13 @@
 ---
 layout: cv
-title: CV, Charles-Olivier Magnan
+title: Isaac Newtons's CV
 ---
-# Charles-Olivier Magnan
+# Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="comagnan@outlook.com">comagnan@outlook.com</a>
-| <a href="https://ca.linkedin.com/in/charles-olivier-magnan-b89a6183">Me rejoindre sur LinkedIn</a>
-| <a href="https://cohost.org/TheBlondeBass">Me rejoindre sur Cohost!</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
@@ -28,16 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`2013-17`
-__Université Laval__
+`1654-1660`
+__The King's School, Grantham.__
 
-### Baccalauréat en génie informatique
-
-- Parcours à mi-chemin entre le matériel et le logiciel avec sujets tels que : VLSI, Systèmes et Commandes Linéaires, programmation en C++ et autres.
-- Développement de projets d’envergure en cours de Design II, III et IV : Balance électronique, Robot sur roues, Géolocalisation
-
-`2011-13`
-__Saint-Lawrence College__
+`June 1661 - now`
+__Trinity College, Cambridge__
 
 - Sizar
 
@@ -48,10 +42,12 @@ __Trinity College, Cambridge__
 
 
 
-## Accomplissements personnels
+## Awards
 
-`2021`
-495e position lors de la compétition de jeu vidéo indépendante Ludum Dare 48 en tant que développeur unique sur le jeu [Fore!](https://ldjam.com/events/ludum-dare/48/fore), dans un échantillon de 2721 entrées. "Fun" et "Innovation" se sont particulièrement démarqués, avec la 163e et 76e position respectivement.
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
 
 
 
