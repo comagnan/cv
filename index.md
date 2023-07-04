@@ -3,27 +3,14 @@ layout: cv
 title: CV, Charles-Olivier Magnan
 ---
 # Charles-Olivier Magnan
-Informaticien de profession, informaticien par loisir.
+<br>
+Informaticien de profession, informaticien par loisir!
 
 <div id="webaddress">
 <a href="comagnan@outlook.com">comagnan@outlook.com</a>
 | <a href="https://ca.linkedin.com/in/charles-olivier-magnan-b89a6183">Me rejoindre sur LinkedIn</a>
 | <a href="https://cohost.org/TheBlondeBass">Me rejoindre sur Cohost!</a>
 </div>
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Parcours professionnel
 
@@ -39,7 +26,7 @@ __Coveo ~ Chef d'équipe, Infrastructure des Connecteurs__
 __Coveo ~ Développeur, Infrastructure des Connecteurs__
 
 - Développer et maintenir des micro-services Cloud avec des objectifs d'évolutivité et de sécurité
-- Concevoir un orchestrateur installé sur place chez les clients, *Maestro*, servant à pousser du contenu interne à l'index Coveo Cloud
+- Concevoir un orchestrateur installé sur place chez les clients, Maestro, servant à pousser du contenu interne à l'index Coveo Cloud
 - Contexte de dévelopement "full-stack", de l'infrastructure-as-code terraformée à l'interface utilisateur en TypeScript
 - Technologies utilisées: AWS, Terraform, Jenkins, Java, C#, Python, React, Groovy, etc.
 
@@ -76,25 +63,36 @@ __Saint-Lawrence College ~ Diplôme d'études collégiales, sciences pures__
 `2016`
 Récepteur de la bourse Expérience du CRSNG
 
+`2015-16`
+Vice-président aux communications pour le Regroupement des Étudiants en Génie Informatique et Électrique
+
 `2012`
 Représentant du Québec au Championnat International des Jeux Mathématiques
 
+## Compétences
 
-## Occupation
+### Langues
 
-`1600`
-__Royal Mint__, London
+Français (langue maternelle), Anglais (courant)
 
-- Warden
-- Minted coins
+### Technologies
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Suite Jetbrains: IntelliJ, Rider, WebStorm, etc.
+- Services AWS: EC2, RDS, ECS, SSM, etc.
+- Kubernetes, Docker Swarm
+- C#, Java, Python, Groovy, Typescript, etc.
+- Visual Studio, Visual Studio Code
+- Jira, Trello, Notion
+- Git, Mercurial
 
+## À propos de moi
 
+L'informatique, pour moi, ça n'est pas juste une question de travail -- je dévore! Je suis d'ailleurs en train de développer un jeu vidéo indépendant dans mes temps libres, intitulé Mirama.
+
+En tant que chef d'équipe, mon objectif a toujours été d'encourager les membres de l'équipe à développer leur autonomie et sens de la responsabilité. Ce sont des qualités qui m'ont été beaucoup utiles par le passé, et que j'essaies un peu de passer au suivant. Mon approche passe par une reconnaissance des bons coups, et par un encouragement continu à faire le suivi du travail livré.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
