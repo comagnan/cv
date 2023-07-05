@@ -4,7 +4,6 @@ title: CV, Charles-Olivier Magnan
 ---
 # Charles-Olivier Magnan
 <br>
-Informaticien de profession, informaticien par loisir!
 
 <div id="webaddress">
 <a href="comagnan@outlook.com">comagnan@outlook.com</a>
@@ -77,11 +76,10 @@ Français (langue maternelle), Anglais (courant)
 
 ### Technologies
 
-- Suite Jetbrains: IntelliJ, Rider, WebStorm, etc.
-- Services AWS: EC2, RDS, ECS, SSM, etc.
+- Suite Jetbrains, Visual Studio, Visual Studio Code
+- Services AWS
 - Kubernetes, Docker Swarm
 - C#, Java, Python, Groovy, Typescript, etc.
-- Visual Studio, Visual Studio Code
 - Jira, Trello, Notion
 - Git, Mercurial
 

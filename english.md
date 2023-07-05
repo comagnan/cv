@@ -1,91 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV, Charles-Olivier Magnan
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Charles-Olivier Magnan
+<br>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="comagnan@outlook.com">comagnan@outlook.com</a>
+| <a href="https://ca.linkedin.com/in/charles-olivier-magnan-b89a6183">Find me on LinkedIn</a>
+| <a href="https://cohost.org/TheBlondeBass">Find me on Cohost!</a>
 </div>
 
+## Professional experiences
 
-## Currently
+`2021-[23]`
+__Coveo ~ Team Lead, Connectors Infrastructure__
 
-Standing on the shoulders of giants
+- Gérer une équipe de quatre développeurs en suivant la méthodologie scrum
+- Diriger des équipes de projet, par exemple lors du développement d'une nouvelle fonctionalité de découverte de metadonnées
+- Être de garde pour maintenir le produit en cas d'urgence grâce à la plateforme d'alerte PagerDuty
+- Partager la connaissance sur nos produits, établir des boucles de rétroaction, animer des post-morterms, etc.
 
-### Specialized in
+`2017-21`
+__Coveo ~ Developer, Connectors Infrastructure__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Développer et maintenir des micro-services Cloud avec des objectifs d'évolutivité et de sécurité
+- Concevoir un orchestrateur installé sur place chez les clients, Maestro, servant à pousser du contenu interne à l'index Coveo Cloud
+- Contexte de dévelopement "full-stack", de l'infrastructure-as-code terraformée à l'interface utilisateur en TypeScript
+- Technologies utilisées: AWS, Terraform, Jenkins, Java, C#, Python, React, Groovy, etc.
 
+`2016`
+__DimOnOff ~ Software Development Intern, R&D__
 
-### Research interests
+- Concevoir une platforme légère pour la gestion de sources de lumière, le tout roulant sur des micro-ordinateurs embarqués Linux
+- Technologies utilisées: Python, documentation avec Sphinx, Jira, MySQL
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2015`
+__Coveo ~ Software Development Intern, Connectors__
 
+- Ajouter le support des documents, et de la structure de sécurité, provenant de la plateforme Zendesk à Coveo Enterprise Search
 
-## Education
+## Éducation
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-17`
+__Université Laval ~ Baccalauréat en génie informatique__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Parcours à mi-chemin entre le matériel et le logiciel avec sujets tels que : VLSI, Systèmes et Commandes Linéaires, programmation en C++ et autres
+- Développement de projets d’envergure en cours de Design II, III et IV : Balance électronique, Robot sur roues, Géolocalisation
 
-- Sizar
+`2011-13`
+__Saint-Lawrence College ~ Diplôme d'études collégiales, sciences pures__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Parcours en immersion anglophone
 
-- Fellow
+## Achievements
 
+`2021`
+Achieved 495th place in the game development contest Ludum Dare 48 with the puzzle game [Fore!](https://ldjam.com/events/ludum-dare/48/fore), out of 2721 entries
+- Fore distinguished itself in the "Fun" and "Innovation" categories, reaching 163rd et 76th place respectively
 
+`2016`
+Received the NSERC's Experience scholarship
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
+`2015-16`
+Communications Vice-President for Université Laval's Regroupement des Étudiants en Génie Informatique et Électrique
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Represented Québec at the Championnat International des Jeux Mathématiques
 
+## Compétences
 
-## Occupation
+### Languages
 
-`1600`
-__Royal Mint__, London
+French (mother tongue), English (fluent)
 
-- Warden
-- Minted coins
+### Technologies
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Suite Jetbrains, Visual Studio, Visual Studio Code
+- Services AWS
+- Kubernetes, Docker Swarm
+- C#, Java, Python, Groovy, Typescript, etc.
+- Jira, Trello, Notion
+- Git, Mercurial
 
+## About me
 
+L'informatique, pour moi, ça n'est pas juste une question de travail -- je dévore! Je suis d'ailleurs en train de développer un jeu vidéo indépendant dans mes temps libres, intitulé Mirama.
+
+En tant que chef d'équipe, mon objectif a toujours été d'encourager les membres de l'équipe à développer leur autonomie et sens de la responsabilité. Ce sont des qualités qui m'ont été beaucoup utiles par le passé, et que j'essaies un peu de passer au suivant. Mon approche passe par une reconnaissance des bons coups, et par un encouragement continu à faire le suivi du travail livré.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
