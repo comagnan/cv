@@ -57,7 +57,7 @@ __Saint-Lawrence College ~ Diploma of College Studies, Pure Sciences__
 
 `2021`
 Achieved 495th place in the game development contest Ludum Dare 48 with the puzzle game [Fore!](https://ldjam.com/events/ludum-dare/48/fore), out of 2721 entries
-- Fore distinguished itself in the "Fun" and "Innovation" categories, reaching 163rd et 76th place respectively
+- Fore! distinguished itself in the "Fun" and "Innovation" categories, reaching 163rd et 76th place respectively
 
 `2016`
 Received the NSERC's Experience scholarship
@@ -87,13 +87,13 @@ French (mother tongue), English (fluent)
 
 Software, for me, isn't just about work. I'm always tinkering on *something* at any given time!
 
-Currently, this something is an independant adventure game called Mirama!
+Currently, that something is an independent adventure game called Mirama!
 
 <br>
 
 As a team lead, my goal has always been to encourage members of the team to develop their autonomy and sense of ownership.
 
-These are qualities that have been very useful to me thorough my life, and that I want to inspire others to strive for.
+These are qualities that have been very useful to me through my career, and that I want to inspire others to strive for.
 
 My approach for this comes through acknowledgement of work well done, and continuous encouragement to follow-up on delivered work.
 
