@@ -9,6 +9,7 @@ title: CV, Charles-Olivier Magnan
 <a href="comagnan@outlook.com">comagnan@outlook.com</a>
 | <a href="https://ca.linkedin.com/in/charles-olivier-magnan-b89a6183">Find me on LinkedIn</a>
 | <a href="https://cohost.org/TheBlondeBass">Find me on Cohost!</a>
+| <a href="tel:581-308-4997">📱 (581) 308-4997</a>
 </div>
 
 ## Professional experiences
@@ -39,7 +40,7 @@ __Coveo ~ Software Development Intern, Connectors__
 
 - Add support for documents and security identities of the Zendesk platform to Coveo Enterprise Search
 
-## Éducation
+## Studies
 
 `2013-17`
 __Université Laval ~ Bachelors Degree in Computer Engineering__
@@ -67,7 +68,7 @@ Communications Vice-President for Université Laval's Regroupement des Étudiant
 `2012`
 Represented Québec at the Championnat International des Jeux Mathématiques
 
-## Compétences
+## Skills
 
 ### Languages
 
@@ -75,8 +76,8 @@ French (mother tongue), English (fluent)
 
 ### Technologies
 
-- Jetbrains suite, Visual Studio, Visual Studio Code
 - AWS
+- Jetbrains suite, Visual Studio, Visual Studio Code
 - Kubernetes, Docker Swarm
 - C#, Java, Python, Groovy, Typescript, etc.
 - Jira, Trello, Notion

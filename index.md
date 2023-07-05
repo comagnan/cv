@@ -9,6 +9,7 @@ title: CV, Charles-Olivier Magnan
 <a href="comagnan@outlook.com">comagnan@outlook.com</a>
 | <a href="https://ca.linkedin.com/in/charles-olivier-magnan-b89a6183">Me rejoindre sur LinkedIn</a>
 | <a href="https://cohost.org/TheBlondeBass">Me rejoindre sur Cohost!</a>
+| <a href="tel:581-308-4997">📱 (581) 308-4997</a>
 </div>
 
 ## Parcours professionnel
