@@ -16,23 +16,22 @@ title: CV, Charles-Olivier Magnan
 `2021-[23]`
 __Coveo ~ Chef d'équipe, Infrastructure des Connecteurs__
 
-- Gérer une équipe de quatre développeurs en suivant la méthodologie scrum
-- Diriger des équipes de projet, par exemple lors du développement d'une nouvelle fonctionalité de découverte de metadonnées
-- Être de garde pour maintenir le produit en cas d'urgence grâce à la plateforme d'alerte PagerDuty
-- Partager la connaissance sur nos produits, établir des boucles de rétroaction, animer des post-morterms, etc.
+- Gérer une équipe de quatre développeurs en suivant la méthodologie scrum, mettant en valeur les forces de chacun
+- Diriger des équipes de projet, par exemple lors du développement d'une nouvelle fonctionnalité de découverte de métadonnées
+- Partager la connaissance sur nos produits, établir des boucles de rétroaction, animer des post-mortems, etc.
 
 `2017-21`
 __Coveo ~ Développeur, Infrastructure des Connecteurs__
 
 - Développer et maintenir des micro-services Cloud avec des objectifs d'évolutivité et de sécurité
-- Concevoir un orchestrateur installé sur place chez les clients, Maestro, servant à pousser du contenu interne à l'index Coveo Cloud
-- Contexte de dévelopement "full-stack", de l'infrastructure-as-code terraformée à l'interface utilisateur en TypeScript
+- Concevoir un orchestrateur installé sur place chez les clients, Maestro, servant à partager du contenu interne avec l'index Coveo Cloud
+- Contexte de développement "full-stack", de l'infrastructure-as-code terraformée à l'interface utilisateur en TypeScript
 - Technologies utilisées: AWS, Terraform, Jenkins, Java, C#, Python, React, Groovy, etc.
 
 `2016`
 __DimOnOff ~ Stage en développement logiciel, R&D__
 
-- Concevoir une platforme légère pour la gestion de sources de lumière, le tout roulant sur des micro-ordinateurs embarqués Linux
+- Concevoir une plateforme légère pour la gestion de sources de lumière, le tout roulant sur des micro-ordinateurs embarqués Linux
 - Technologies utilisées: Python, documentation avec Sphinx, Jira, MySQL
 
 `2015`
@@ -45,7 +44,7 @@ __Coveo ~ Stage en développement logiciel, Connecteurs__
 `2013-17`
 __Université Laval ~ Baccalauréat en génie informatique__
 
-- Parcours à mi-chemin entre le matériel et le logiciel avec sujets tels que : VLSI, Systèmes et Commandes Linéaires, programmation en C++ et autres
+- Parcours à mi-chemin entre le matériel et le logiciel avec sujets tels que : VLSI, Systèmes et Commandes Linéaires, et autres
 - Développement de projets d’envergure en cours de Design II, III et IV : Balance électronique, Robot sur roues, Géolocalisation
 
 `2011-13`
@@ -85,9 +84,15 @@ Français (langue maternelle), Anglais (courant)
 
 ## À propos de moi
 
-L'informatique, pour moi, ça n'est pas juste une question de travail -- je dévore! Je suis d'ailleurs en train de développer un jeu vidéo indépendant dans mes temps libres, intitulé Mirama.
+L'informatique, pour moi, ça n'est pas juste une question de travail; je dévore!
+Je suis d'ailleurs en train de développer, dans mes temps libres, un jeu vidéo indépendant intitulé Mirama.
+Ça me ferait plaisir de vous en parler!
 
-En tant que chef d'équipe, mon objectif a toujours été d'encourager les membres de l'équipe à développer leur autonomie et sens de la responsabilité. Ce sont des qualités qui m'ont été beaucoup utiles par le passé, et que j'essaies un peu de passer au suivant. Mon approche passe par une reconnaissance des bons coups, et par un encouragement continu à faire le suivi du travail livré.
+<br>
+
+En tant que chef d'équipe, mon objectif a toujours été d'encourager les membres de l'équipe à développer leur autonomie et sens de la responsabilité.
+Ce sont des qualités qui m'ont été très utiles par le passé, et que j'essaie de passer au suivant.
+Mon approche passe par une reconnaissance des bons coups, et par un encouragement continu à faire le suivi du travail livré.
 
 <!-- ### Footer
 
