@@ -12,7 +12,7 @@ title: CV, Charles-Olivier Magnan
 | <a href="tel:581-308-4997">📱 (581) 308-4997</a>
 </div>
 
-## Professional experiences
+## Professional Experiences
 
 `2021-[23]`
 __Coveo ~ Team Lead, Connectors Infrastructure__
@@ -88,6 +88,8 @@ French (mother tongue), English (fluent)
 Software, for me, isn't just about work. I'm always tinkering on *something* at any given time!
 
 Currently, this something is an independant adventure game called Mirama!
+
+<br>
 
 As a team lead, my goal has always been to encourage members of the team to develop their autonomy and sense of ownership.
 
