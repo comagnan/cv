@@ -2,8 +2,8 @@
 layout: cv
 title: CV, Charles-Olivier Magnan
 ---
-# Charles-Olivier Magnan
 <br>
+# Charles-Olivier Magnan
 
 <div id="webaddress">
 <a href="comagnan@outlook.com">comagnan@outlook.com</a>
@@ -48,11 +48,11 @@ __Université Laval ~ Baccalauréat en génie informatique__
 - Développement de projets d’envergure en cours de Design II, III et IV : Balance électronique, Robot sur roues, Géolocalisation
 
 `2011-13`
-__Saint-Lawrence College ~ Diplôme d'études collégiales, sciences pures__
+__Cégep Champlain Saint-Lawrence ~ Diplôme d'études collégiales, sciences pures__
 
 - Parcours en immersion anglophone
 
-## Accomplissements personnels
+## Accomplissements
 
 `2021`
 495e position lors de la compétition de jeu vidéo Ludum Dare 48 avec le jeu [Fore!](https://ldjam.com/events/ludum-dare/48/fore), dans un échantillon de 2721 entrées
@@ -85,13 +85,17 @@ Français (langue maternelle), Anglais (courant)
 ## À propos de moi
 
 L'informatique, pour moi, ça n'est pas juste une question de travail; je dévore!
+
 Je suis d'ailleurs en train de développer, dans mes temps libres, un jeu vidéo indépendant intitulé Mirama.
+
 Ça me ferait plaisir de vous en parler!
 
 <br>
 
 En tant que chef d'équipe, mon objectif a toujours été d'encourager les membres de l'équipe à développer leur autonomie et sens de la responsabilité.
-Ce sont des qualités qui m'ont été très utiles par le passé, et que j'essaie de passer au suivant.
+
+Ce sont des qualités qui m'ont été très utiles jusqu'à présent, et que j'essaie de passer au suivant.
+
 Mon approche passe par une reconnaissance des bons coups, et par un encouragement continu à faire le suivi du travail livré.
 
 <!-- ### Footer

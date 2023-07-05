@@ -2,8 +2,8 @@
 layout: cv
 title: CV, Charles-Olivier Magnan
 ---
-# Charles-Olivier Magnan
 <br>
+# Charles-Olivier Magnan
 
 <div id="webaddress">
 <a href="comagnan@outlook.com">comagnan@outlook.com</a>
@@ -16,42 +16,41 @@ title: CV, Charles-Olivier Magnan
 `2021-[23]`
 __Coveo ~ Team Lead, Connectors Infrastructure__
 
-- Gérer une équipe de quatre développeurs en suivant la méthodologie scrum
-- Diriger des équipes de projet, par exemple lors du développement d'une nouvelle fonctionalité de découverte de metadonnées
-- Être de garde pour maintenir le produit en cas d'urgence grâce à la plateforme d'alerte PagerDuty
-- Partager la connaissance sur nos produits, établir des boucles de rétroaction, animer des post-morterms, etc.
+- Lead a team of four developers using Scrum methodology, highlighting each member's strength
+- Manage product teams, for example during the development of a new metadata discovery functionality
+- Transfer knowledge on our products, establish feedback loops, d post-mortems, with the goal of continuous progress
 
 `2017-21`
 __Coveo ~ Developer, Connectors Infrastructure__
 
-- Développer et maintenir des micro-services Cloud avec des objectifs d'évolutivité et de sécurité
-- Concevoir un orchestrateur installé sur place chez les clients, Maestro, servant à pousser du contenu interne à l'index Coveo Cloud
-- Contexte de dévelopement "full-stack", de l'infrastructure-as-code terraformée à l'interface utilisateur en TypeScript
-- Technologies utilisées: AWS, Terraform, Jenkins, Java, C#, Python, React, Groovy, etc.
+- Develop and maintain Cloud microservices with a focus on scalability and security
+- Design an on-premises orchestrator, called Maestro, used to push customer content to their Coveo Cloud index from within their firewall
+- Work in a "full-stack" environment, from Terraformed infrastructure-as-code to front-end with TypeScript
+- Technologies include: AWS, Terraform, Jenkins, Java, C#, Python, React, Groovy, etc.
 
 `2016`
 __DimOnOff ~ Software Development Intern, R&D__
 
-- Concevoir une platforme légère pour la gestion de sources de lumière, le tout roulant sur des micro-ordinateurs embarqués Linux
-- Technologies utilisées: Python, documentation avec Sphinx, Jira, MySQL
+- Develop a lightweight platform for management of light sources, running on embedded Linux micro-computers
+- Technologies used: Python with Sphinx-based documentation, Jira, MySQL
 
 `2015`
 __Coveo ~ Software Development Intern, Connectors__
 
-- Ajouter le support des documents, et de la structure de sécurité, provenant de la plateforme Zendesk à Coveo Enterprise Search
+- Add support for documents and security identities of the Zendesk platform to Coveo Enterprise Search
 
 ## Éducation
 
 `2013-17`
-__Université Laval ~ Baccalauréat en génie informatique__
+__Université Laval ~ Bachelors Degree in Computer Engineering__
 
-- Parcours à mi-chemin entre le matériel et le logiciel avec sujets tels que : VLSI, Systèmes et Commandes Linéaires, programmation en C++ et autres
-- Développement de projets d’envergure en cours de Design II, III et IV : Balance électronique, Robot sur roues, Géolocalisation
+- Curriculum bridging hardware and software with classes such as: VLSI, Linear Systems and Commands, and others
+- Larger scale engineering projects during Design II, III et IV: Electronic scale, path-finding robot and geotracking
 
 `2011-13`
-__Saint-Lawrence College ~ Diplôme d'études collégiales, sciences pures__
+__Saint-Lawrence College ~ Diploma of College Studies, Pure Sciences__
 
-- Parcours en immersion anglophone
+- Collegial studies in a full-time English-speaking environment
 
 ## Achievements
 
@@ -76,8 +75,8 @@ French (mother tongue), English (fluent)
 
 ### Technologies
 
-- Suite Jetbrains, Visual Studio, Visual Studio Code
-- Services AWS
+- Jetbrains suite, Visual Studio, Visual Studio Code
+- AWS
 - Kubernetes, Docker Swarm
 - C#, Java, Python, Groovy, Typescript, etc.
 - Jira, Trello, Notion
@@ -85,9 +84,15 @@ French (mother tongue), English (fluent)
 
 ## About me
 
-L'informatique, pour moi, ça n'est pas juste une question de travail -- je dévore! Je suis d'ailleurs en train de développer un jeu vidéo indépendant dans mes temps libres, intitulé Mirama.
+Software, for me, isn't just about work. I'm always tinkering on *something* at any given time!
 
-En tant que chef d'équipe, mon objectif a toujours été d'encourager les membres de l'équipe à développer leur autonomie et sens de la responsabilité. Ce sont des qualités qui m'ont été beaucoup utiles par le passé, et que j'essaies un peu de passer au suivant. Mon approche passe par une reconnaissance des bons coups, et par un encouragement continu à faire le suivi du travail livré.
+Currently, this something is an independant adventure game called Mirama!
+
+As a team lead, my goal has always been to encourage members of the team to develop their autonomy and sense of ownership.
+
+These are qualities that have been very useful to me thorough my life, and that I want to inspire others to strive for.
+
+My approach for this comes through acknowledgement of work well done, and continuous encouragement to follow-up on delivered work.
 
 <!-- ### Footer
 
