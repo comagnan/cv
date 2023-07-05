@@ -12,7 +12,7 @@ title: CV, Charles-Olivier Magnan
 | <a href="tel:581-308-4997">📱 (581) 308-4997</a>
 </div>
 
-## Professional Experiences
+## Professional Experience
 
 `2021-[23]`
 __Coveo ~ Team Lead, Connectors Infrastructure__
