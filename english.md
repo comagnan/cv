@@ -20,20 +20,19 @@ __Coveo ~ Team Lead, Connectors Infrastructure__
 - Lead a team of four developers using Scrum methodology, highlighting each member's strength
 - Manage product teams, for example during the development of a new metadata discovery functionality
 - Transfer knowledge on our products, establish feedback loops, d post-mortems, with the goal of continuous progress
+- Overhaul our processes for deployment, validation and monitoring, and doing so improve the quality of Coveo services both within and outside the team
 
 `2017-21`
 __Coveo ~ Developer, Connectors Infrastructure__
 
 - Develop and maintain Cloud microservices with a focus on scalability and security
-- Design an on-premises orchestrator, called Maestro, used to push customer content to their Coveo Cloud index from within their firewall
+- Deliver an on-premises orchestrator used to push customer content to their Coveo Cloud index from within their firewall
 - Work in a "full-stack" environment, from Terraformed infrastructure-as-code to front-end with TypeScript
-- Technologies include: AWS, Terraform, Jenkins, Java, C#, Python, React, Groovy, etc.
 
 `2016`
 __DimOnOff ~ Software Development Intern, R&D__
 
 - Develop a lightweight platform for management of light sources, running on embedded Linux micro-computers
-- Technologies used: Python with Sphinx-based documentation, Jira, MySQL
 
 `2015`
 __Coveo ~ Software Development Intern, Connectors__
@@ -85,9 +84,7 @@ French (mother tongue), English (fluent)
 
 ## About me
 
-Software, for me, isn't just about work. I'm always tinkering on *something* at any given time!
-
-Currently, that something is an independent adventure game called Mirama!
+Software, for me, isn't just about work. I'm always tinkering on *something* at any given time. Currently, that something is a puzzle-adventure game!
 
 <br>
 
@@ -96,6 +93,8 @@ As a team lead, my goal has always been to encourage members of the team to deve
 These are qualities that have been very useful to me through my career, and that I want to inspire others to strive for.
 
 My approach for this comes through acknowledgement of work well done, and continuous encouragement to follow-up on delivered work.
+
+<br>
 
 <!-- ### Footer
 

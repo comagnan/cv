@@ -20,20 +20,19 @@ __Coveo ~ Chef d'équipe, Infrastructure des Connecteurs__
 - Gérer une équipe de quatre développeurs en suivant la méthodologie scrum, mettant en valeur les forces de chacun
 - Diriger des équipes de projet, par exemple lors du développement d'une nouvelle fonctionnalité de découverte de métadonnées
 - Partager la connaissance sur nos produits, établir des boucles de rétroaction, animer des post-mortems, etc.
+- Améliorer le processus de déploiement, de validation et de suivi de notre solution sur-place, afin d'améliorer la qualité des produits de Coveo tant à l'intérieur qu'à l'extérieur de l'équipe
 
 `2017-21`
 __Coveo ~ Développeur, Infrastructure des Connecteurs__
 
 - Développer et maintenir des micro-services Cloud avec des objectifs d'évolutivité et de sécurité
-- Concevoir un orchestrateur installé sur place chez les clients, Maestro, servant à partager du contenu interne avec l'index Coveo Cloud
+- Concevoir un orchestrateur installé sur place chez les clients, servant à partager du contenu interne avec l'index Coveo Cloud
 - Contexte de développement "full-stack", de l'infrastructure-as-code terraformée à l'interface utilisateur en TypeScript
-- Technologies utilisées: AWS, Terraform, Jenkins, Java, C#, Python, React, Groovy, etc.
 
 `2016`
 __DimOnOff ~ Stage en développement logiciel, R&D__
 
 - Concevoir une plateforme légère pour la gestion de sources de lumière, le tout roulant sur des micro-ordinateurs embarqués Linux
-- Technologies utilisées: Python, documentation avec Sphinx, Jira, MySQL
 
 `2015`
 __Coveo ~ Stage en développement logiciel, Connecteurs__
@@ -60,7 +59,7 @@ __Cégep Champlain Saint-Lawrence ~ Diplôme d'études collégiales, sciences pu
 - Les critères "Fun" et "Innovation" se sont particulièrement démarqués, avec la 163e et 76e position respectivement
 
 `2016`
-Récepteur de la bourse Expérience du CRSNG
+Récipiendaire de la bourse Expérience du CRSNG
 
 `2015-16`
 Vice-président aux communications pour le Regroupement des Étudiants en Génie Informatique et Électrique
@@ -85,11 +84,9 @@ Français (langue maternelle), Anglais (courant)
 
 ## À propos de moi
 
-L'informatique, pour moi, ça n'est pas juste une question de travail; je dévore!
+L'informatique, pour moi, ça n'est pas juste une question de travail. Je suis toujours en train de travailler sur un projet personnel ou un autre!
 
-Je suis d'ailleurs en train de développer, dans mes temps libres, un jeu vidéo indépendant intitulé Mirama.
-
-Ça me ferait plaisir de vous en parler!
+Ces derniers temps, le projet en question est un jeu d'aventure et de casse-têtes développé en C#!
 
 <br>
 
@@ -98,6 +95,8 @@ En tant que chef d'équipe, mon objectif a toujours été d'encourager les membr
 Ce sont des qualités qui m'ont été très utiles jusqu'à présent, et que j'essaie de passer au suivant.
 
 Mon approche passe par une reconnaissance des bons coups, et par un encouragement continu à faire le suivi du travail livré.
+
+<br>
 
 <!-- ### Footer
 
