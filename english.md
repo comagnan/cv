@@ -84,7 +84,9 @@ French (mother tongue), English (fluent)
 
 ## About me
 
-Software, for me, isn't just about work. I'm always tinkering on *something* at any given time. Currently, that something is a puzzle-adventure game!
+Software, for me, isn't just about work. I'm always tinkering on *something* at any given time.
+
+Currently, that something is a puzzle-adventure game made in C#!
 
 <br>
 
