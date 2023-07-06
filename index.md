@@ -20,7 +20,7 @@ __Coveo ~ Chef d'équipe, Infrastructure des Connecteurs__
 - Gérer une équipe de quatre développeurs en suivant la méthodologie scrum, mettant en valeur les forces de chacun
 - Diriger des équipes de projet, par exemple lors du développement d'une nouvelle fonctionnalité de découverte de métadonnées
 - Partager la connaissance sur nos produits, établir des boucles de rétroaction, animer des post-mortems, etc.
-- Améliorer le processus de déploiement, de validation et de suivi de notre solution sur-place, afin d'améliorer la qualité des produits de Coveo tant à l'intérieur qu'à l'extérieur de l'équipe
+- Améliorer le processus de déploiement, de validation et de suivi de notre solution sur-place, afin d'améliorer la qualité de nos produits tant à l'intérieur qu'à l'extérieur de l'équipe
 
 `2017-21`
 __Coveo ~ Développeur, Infrastructure des Connecteurs__
@@ -65,13 +65,15 @@ Récipiendaire de la bourse Expérience du CRSNG
 Vice-président aux communications pour le Regroupement des Étudiants en Génie Informatique et Électrique
 
 `2012`
-Représentant du Québec au Championnat International des Jeux Mathématiques
+Représentant du Québec au [Championnat International des Jeux Mathématiques](https://www.ffjm.org/fr/)
 
 ## Compétences
 
 `Langues`
 
 Français (langue maternelle), Anglais (courant)
+
+<br>
 
 `Technologies`
 

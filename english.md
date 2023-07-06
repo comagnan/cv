@@ -65,13 +65,15 @@ Received the NSERC's Experience scholarship
 Communications Vice-President for Université Laval's Regroupement des Étudiants en Génie Informatique et Électrique
 
 `2012`
-Represented Québec at the Championnat International des Jeux Mathématiques
+Represented Québec at the [Championnat International des Jeux Mathématiques](https://www.ffjm.org/fr/)
 
 ## Skills
 
 `Languages`
 
 French (mother tongue), English (fluent)
+
+<br>
 
 `Technologies`
 
