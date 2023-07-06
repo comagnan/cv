@@ -19,8 +19,8 @@ __Coveo ~ Team Lead, Connectors Infrastructure__
 
 - Lead a team of four developers using Scrum methodology, highlighting each member's strength
 - Manage product teams, for example during the development of a new metadata discovery functionality
-- Transfer knowledge on our products, establish feedback loops, d post-mortems, with the goal of continuous progress
-- Overhaul our processes for deployment, validation and monitoring, and doing so improve the quality of Coveo services both within and outside the team
+- Transfer knowledge on our products, establish feedback loops, drive post-mortems, with the goal of continuous progress
+- Overhaul our processes for deployment, validation and monitoring, and doing so enhance the quality of Coveo services both within and outside the team
 
 `2017-21`
 __Coveo ~ Developer, Connectors Infrastructure__
@@ -56,7 +56,7 @@ __Saint-Lawrence College ~ Diploma of College Studies, Pure Sciences__
 
 `2021`
 Achieved 495th place in the game development contest Ludum Dare 48 with the puzzle game [Fore!](https://ldjam.com/events/ludum-dare/48/fore), out of 2721 entries
-- Fore! distinguished itself in the "Fun" and "Innovation" categories, reaching 163rd et 76th place respectively
+- Fore! distinguished itself in the "Fun" and "Innovation" categories, reaching 163rd and 76th place respectively
 
 `2016`
 Received the NSERC's Experience scholarship
@@ -69,11 +69,11 @@ Represented Québec at the Championnat International des Jeux Mathématiques
 
 ## Skills
 
-### Languages
+`Languages`
 
 French (mother tongue), English (fluent)
 
-### Technologies
+`Technologies`
 
 - AWS
 - Jetbrains suite, Visual Studio, Visual Studio Code

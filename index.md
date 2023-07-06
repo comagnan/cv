@@ -25,7 +25,7 @@ __Coveo ~ Chef d'équipe, Infrastructure des Connecteurs__
 `2017-21`
 __Coveo ~ Développeur, Infrastructure des Connecteurs__
 
-- Développer et maintenir des micro-services Cloud avec des objectifs d'évolutivité et de sécurité
+- Développer et maintenir des micro-services infonuagiques avec des objectifs d'évolutivité et de sécurité
 - Concevoir un orchestrateur installé sur place chez les clients, servant à partager du contenu interne avec l'index Coveo Cloud
 - Contexte de développement "full-stack", de l'infrastructure-as-code terraformée à l'interface utilisateur en TypeScript
 
@@ -69,11 +69,11 @@ Représentant du Québec au Championnat International des Jeux Mathématiques
 
 ## Compétences
 
-### Langues
+`Langues`
 
 Français (langue maternelle), Anglais (courant)
 
-### Technologies
+`Technologies`
 
 - Suite Jetbrains, Visual Studio, Visual Studio Code
 - Services AWS
